@@ -1,2 +1,2 @@
 # DSA_CodingNinjas
-Solutions for Coding Ninjas DSA Problem
+Solutions for Coding Ninjas DSA Problems
